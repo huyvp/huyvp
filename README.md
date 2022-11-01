@@ -47,12 +47,7 @@
 <img src="https://komarev.com/ghpvc/?username=huyn29" alt="hedythedev"/> 
 <a href="https://github.com/huyn29"><img src="https://img.shields.io/github/stars/sushmithas99?color=blue&style=flat-box&logo=github" alt="Github stars"/></a>
 
-<details>
-    <br/>
-    ![Huyn29's github stats](https://github-readme-stats.vercel.app/api?username=huyn29&show_icons=true&theme=radical)
-    <br/>
-</details>
-
+![Huyn29's github stats](https://github-readme-stats.vercel.app/api?username=huyn29&show_icons=true&theme=radical)
 
 <!--
 **sushmithas99/sushmithas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -129,7 +124,3 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
  Last Updated on 30/09/2022 07:22:54 UTC
 <!--END_SECTION:waka-->
-
-
-[J2TeamNNL]: https://j2teamnnl.com/
-[Facebook]: https://fb.me/j2teamnnl

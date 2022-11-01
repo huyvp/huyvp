@@ -6,9 +6,9 @@
 - ⚡ Fun fact: I share... a lot!
 
 
-### Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sushmitha S !
-<a href="www.linkedin.com/in/sushmithas99"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/></a> &nbsp;
-<a href="https://github.com/sushmithas99"><img src="https://img.shields.io/badge/follow-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github follow"/></a>
+### Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Huy Nguyen !
+<a href="https://www.linkedin.com/in/huy-nguy%E1%BB%85n-735180219/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/></a> &nbsp;
+<a href="https://github.com/huyn29"><img src="https://img.shields.io/badge/follow-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github follow"/></a>
 
 
 #### Welcome to my GitHub profile 🥰
@@ -18,7 +18,7 @@
 <br/>
 -🌱 I’m currently focusing more on Fronend and Backend  
 <br/>
--⚡ Fun Fact: Love to draw, listening music.
+-⚡ Fun Fact: Learn from yesterday, live for today, try for tomorrow.
 
 ## My interests 💙
 * Devops 
@@ -49,20 +49,6 @@
 
 ![Huyn29's github stats](https://github-readme-stats.vercel.app/api?username=huyn29&show_icons=true&theme=radical)
 
-<!--
-**sushmithas99/sushmithas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C375%20hrs%209%20mins-blue)
 
@@ -76,7 +62,7 @@ Here are some ideas to get you started:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 

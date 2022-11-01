@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**huyn29/huyn29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Hi fellows 👋
 
 - 🔭 I’m currently working on [HCLTech]
@@ -28,11 +12,11 @@ Here are some ideas to get you started:
 
 
 #### Welcome to my GitHub profile 🥰
--👩‍💻 I’m Sushmitha, a student, Tester, Developer, who is going towards Testing 
+-👩‍💻 I’m Huy Nguyen, Devops Engineer, Web Developer
 <br/>
 -✨ I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 <br/>
--🌱 I’m currently focusing more on Testing  
+-🌱 I’m currently focusing more on Fronend and Backend  
 <br/>
 -⚡ Fun Fact: Love to draw, listening music.
 
@@ -41,39 +25,32 @@ Here are some ideas to get you started:
 * Web development
 * React
 * Java
-* PHP
+* Kubernetes
 <br/>
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://simpleicons.org/icons/java.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://simpleicons.org/icons/adobexd.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
 <br/>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=sushmithas99" alt="hedythedev"/> 
-<a href="https://github.com/sushmithas99"><img src="https://img.shields.io/github/stars/sushmithas99?color=blue&style=flat-box&logo=github" alt="Github stars"/></a>
+<img src="https://komarev.com/ghpvc/?username=huyn29" alt="hedythedev"/> 
+<a href="https://github.com/huyn29"><img src="https://img.shields.io/github/stars/sushmithas99?color=blue&style=flat-box&logo=github" alt="Github stars"/></a>
 
 <details>
-     <br/>
-<summary>⚡ Pined Repositories</summary>
-     
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushmithas99&repo=Sushmitha-S-Portfolio&show_icons=true&theme=chartreuse-dark)](https://github.com/sushmithas99/Sushmitha-S-Portfolio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushmithas99&repo=sushmithas99&show_icons=true&theme=chartreuse-dark)](https://github.com/sushmithas99/sushmithas99)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushmithas99&repo=Consumer_Complaints_Analysis&show_icons=true&theme=chartreuse-dark)](https://github.com/sushmithas99/Consumer_Complaints_Analysis)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushmithas99&repo=COVID19_Data_Analysis&show_icons=true&theme=chartreuse-dark)](https://github.com/sushmithas99/COVID19_Data_Analysis)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushmithas99&repo=Image-classification-using-CNN-with-CIFAR-10&show_icons=true&theme=chartreuse-dark)](https://github.com/sushmithas99/Image-classification-using-CNN-with-CIFAR-10)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushmithas99&repo=Car-Rental-System&show_icons=true&theme=chartreuse-dark)](https://github.com/sushmithas99/Car-Rental-System)
-
- <br/>
-
+    <br/>
+    ![Huyn29's github stats](https://github-readme-stats.vercel.app/api?username=huyn29&show_icons=true&theme=radical)
+    <br/>
 </details>
 
 
@@ -156,4 +133,3 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 [J2TeamNNL]: https://j2teamnnl.com/
 [Facebook]: https://fb.me/j2teamnnl
-

@@ -19,7 +19,7 @@
 -🌱 I’m currently focusing more on Fronend and Backend  
 <br/>
 -⚡ Fun Fact: Learn from yesterday, live for today, try for tomorrow.
-
+<br/>
 ## My interests 💙
 * Devops 
 * Web development

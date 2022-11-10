@@ -12,13 +12,13 @@
 
 
 #### Welcome to my GitHub profile 🥰
--👩‍💻 I’m Huy Nguyen, Devops Engineer, Web Developer
+👩‍💻 I’m Huy Nguyen, Devops Engineer, Web Developer
 
--✨ I’m a Self-learner, coding enthusiastic, passionate to learn new things 
+✨ I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 
--🌱 I’m currently focusing more on Fronend and Backend  
+🌱 I’m currently focusing more on Fronend and Backend  
 
--⚡ Fun Fact: Learn from yesterday, live for today, try for tomorrow.
+⚡ Fun Fact: Learn from yesterday, live for today, try for tomorrow.
 <br/>
 ## My interests 💙
 * Devops 

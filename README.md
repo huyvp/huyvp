@@ -1,6 +1,6 @@
 ### Hi fellows 👋
 
-- 🔭 I’m currently working on [HCLTech]
+- 🔭 I’m currently working on [SamsungSDS]
 - 💬 Ask me about every thing
 - 📫 How to reach me: [Facebook]
 - ⚡ Fun fact: I share... a lot!

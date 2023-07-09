@@ -1,5 +1,5 @@
-### Hi fellows 👋
-
+### Hello World 👋
+<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%">
 - 🔭 I’m currently working on [SamsungSDS]
 - 💬 Ask me about every thing
 - 📫 How to reach me: [Facebook]

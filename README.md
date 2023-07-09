@@ -24,7 +24,7 @@
 
 
 #### Welcome to my GitHub profile 🥰
-👩‍💻 I’m Huy Nguyen, Devops Engineer, Web Developer
+👩‍💻 I’m Huy Nguyen, FullStack Developer, Devops Engineer
 
 ✨ I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 
@@ -35,8 +35,8 @@
 ## My interests 💙
 * Devops 
 * Web development
-* React
-* Java
+* React, VueJs
+* Java, Spring Boot
 * Kubernetes
 <br/>
 
@@ -57,7 +57,9 @@
   <br/>
   <br/>
 
-![Huyn29's github stats](https://github-readme-stats.vercel.app/api?username=huyn29&show_icons=true&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huyn29&show_icons=true&locale=en" alt="huyn29" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huyn29&" alt="huyn29" /></p>
 </div>
 
 

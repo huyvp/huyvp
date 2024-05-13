@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://www.facebook.com/huy.nguyenvan.189/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="huyn-facebook" />
-  <a href="https://www.linkedin.com/in/huy-nguy%E1%BB%85n-735180219/" target="blank">
+  <a href=https://www.linkedin.com/in/huyvp/"" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="huyn-linkedin" />
   </a>
   <a href="https://www.instagram.com/nvh_haui/" target="blank">

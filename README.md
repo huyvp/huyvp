@@ -53,24 +53,8 @@
   <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></span>
   <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></span>
   <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></span>
-
   <br/>
   <br/>
   <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huyvp&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=onedark" alt="huyvp" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huyvp&" alt="huyvp" /></p>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=huyvp&show_icons=true&theme=synthwave"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=huyvp&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=huyvp&show_icons=true" />
-</picture>
-</div>
-
-

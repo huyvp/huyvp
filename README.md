@@ -57,7 +57,7 @@
   <br/>
   <br/>
   <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huyvp&show_icons=true&theme=daracula" alt="huyvp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huyvp&show_icons=true&theme=onedark" alt="huyvp" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huyvp&" alt="huyvp" /></p>
 
 <picture>

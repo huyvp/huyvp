@@ -57,14 +57,12 @@
   <br/>
   <br/>
   <br/>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huyvp&show_icons=true&theme=daracula" alt="huyvp" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huyvp&" alt="huyvp" /></p>
----------------------------------
+
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=huyvp&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=huyvp&show_icons=true&theme=synthwave"
     media="(prefers-color-scheme: dark)"
   />
   <source

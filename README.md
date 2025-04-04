@@ -5,23 +5,6 @@
 - 💬 Ask me about every thing
 - 📫 How to reach me: [Facebook]
 - ⚡ Fun fact: I share... a lot!
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<div align="center">
-  <a href="https://www.facebook.com/huy.nguyenvan.189/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="huyn-facebook" />
-  <a href=https://www.linkedin.com/in/huyvp/"" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="huyn-linkedin" />
-  </a>
-  <a href="https://www.instagram.com/nvh_haui/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="huyn-instagram" />
-  </a>
-  <a href="mailto:nvh1892kw@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="huyn-email" />
-  </a>
-</div>
-
 
 #### Welcome to my GitHub profile 🥰
 👩‍💻 I’m Huy Nguyen, FullStack Developer, Devops Engineer

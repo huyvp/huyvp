@@ -1,32 +1,33 @@
 ### Hello World 👋
 <img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%">
 
-#### Welcome to my GitHub profile 🥰
-👩‍💻 I’m Huy Nguyen, FullStack Developer, Devops Engineer
+<h1 align="center">Hi 👋, I'm Huy Nguyen</h1>
+<h3 align="center">A Java Developer who loves clean code, scalable systems, and modern cloud architecture ☁️</h3>
 
-✨ I’m a Self-learner, coding enthusiastic, passionate to learn new things 
+### 🚀 Tech Stack
 
-🌱 I’m currently focusing more on Fronend and Backend  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-⚡ Fun Fact: Learn from yesterday, live for today, try for tomorrow.
-<br/>
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<div align = "center">
-  <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></span>
-  <span><img height="30" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></span>
-  <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></span>
-  <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></span>
-  <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></span>
-  <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></span>
-  <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></span>
-  <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></span>
-  <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></span>
-  <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></span>
-  <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></span>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huyvp&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=onedark" alt="huyvp" /></p>
+### 📊 GitHub Stats
+<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=huyvp&show_icons=true&theme=tokyonight&count_private=true&locale=en&include_all_commit=true&hide_rank=false&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huyvp&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=5&hide_border=true&card_width=320" height="150" alt="huyvp" />
+</div>
+
+### 📫 How to reach me
+
+- 📧 Email: [your.email@example.com](mailto:nvh1892kw@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/huyvp)
+- 🌐 Portfolio: [your-website.com](https://huyvp.dev)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huyvp&" alt="huyvp" /></p>

@@ -10,14 +10,6 @@
 
 ⚡ Fun Fact: Learn from yesterday, live for today, try for tomorrow.
 <br/>
-## My interests 💙
-* Devops 
-* Web development
-* React, VueJs
-* Java, Spring Boot
-* Kubernetes
-<br/>
-
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <div align = "center">
   <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></span>

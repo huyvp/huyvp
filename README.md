@@ -26,9 +26,9 @@
 
 ### 📫 How to reach me
 
-- 📧 Email: [your.email@example.com](mailto:nvh1892kw@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/huyvp)
-- 🌐 Portfolio: [your-website.com](https://huyvp.dev)
+- 📧 Email: [nvh1892kw@gmail.com](mailto:nvh1892kw@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/huyvp](https://www.linkedin.com/in/huyvp)
+- 🌐 Portfolio: [huyvp.dev](https://huyvp.dev)
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huyvp&" alt="huyvp" />

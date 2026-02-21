@@ -16,13 +16,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-
-### 📊 GitHub Stats
-<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=huyvp&show_icons=true&theme=tokyonight&count_private=true&locale=en&include_all_commit=true&hide_rank=false&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huyvp&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=5&hide_border=true" height="150" alt="huyvp" />
-</div>
-
 ### 📫 How to reach me
 
 - 📧 Email: [nvh1892kw@gmail.com](mailto:nvh1892kw@gmail.com)

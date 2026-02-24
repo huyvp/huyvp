@@ -1,6 +1,6 @@
 <img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%">
 
-<h1 align="center">Hi 👋, I'm Huy Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Huy Nguyen. You can call me Daniel for short.</h1>
 <h3 align="center">A Java Developer who loves clean code, scalable systems, and modern cloud architecture ☁️</h3>
 
 ### 🚀 Tech Stack
